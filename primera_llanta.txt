@@ -1,3 +1,5 @@
 La llanta uno se ha creado
 proceso finalizado modificación
 fin
+copia
+fin

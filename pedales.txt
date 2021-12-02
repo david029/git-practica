@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Ambas ramas se deben unir
 fin
+=======
+cambiando texto en la rama copia 
+agregando cambios en rama copia 
+>>>>>>> copia
